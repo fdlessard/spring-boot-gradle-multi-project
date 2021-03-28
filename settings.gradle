@@ -1,0 +1,4 @@
+rootProject.name = 'spring-boot-gradle-multi-project'
+include 'spring-boot-customer'
+include 'spring-boot-order'
+
